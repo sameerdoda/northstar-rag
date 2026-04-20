@@ -1,0 +1,1402 @@
+[
+  {
+    "day": 1,
+    "week": 1,
+    "phase": 1,
+    "card_title": "Day 1 \u2014 Define target role stack",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Write down your exact target titles: Director of Product and Principal PM",
+      "List 15 target companies across Canada and the US",
+      "Choose primary focus: AI platform, AI product, or AI-enabled growth",
+      "Write 5 bullets on why you are credible for these roles",
+      "Create a single folder for all job-search artifacts"
+    ]
+  },
+  {
+    "day": 2,
+    "week": 1,
+    "phase": 1,
+    "card_title": "Day 2 \u2014 Analyze target job descriptions",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Collect 8 live job descriptions for Director or Principal PM roles",
+      "Highlight repeated requirements across the job descriptions",
+      "List the top 10 skills being screened for",
+      "Mark each skill as strong, medium, or weak for yourself",
+      "Write a one-page gap summary"
+    ]
+  },
+  {
+    "day": 3,
+    "week": 1,
+    "phase": 1,
+    "card_title": "Day 3 \u2014 Write career narrative v1",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Draft your career story from early PM work to HelloFresh",
+      "Write a 90-second Tell me about yourself answer",
+      "Write a 30-second executive intro version",
+      "Practice both versions out loud 3 times",
+      "Record yourself once and note weak spots"
+    ]
+  },
+  {
+    "day": 4,
+    "week": 1,
+    "phase": 1,
+    "card_title": "Day 4 \u2014 Build leadership story bank",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "List 10 leadership situations from your career",
+      "Choose 5 strongest stories for interviews",
+      "For 2 stories write Situation, Task, Action, Result",
+      "Add concrete metrics to each story",
+      "Tag each story by theme: strategy, execution, conflict, failure, influence"
+    ]
+  },
+  {
+    "day": 5,
+    "week": 1,
+    "phase": 1,
+    "card_title": "Day 5 \u2014 Refresh product sense framework",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review one product sense framework you will use consistently",
+      "Practice Improve Uber Eats in writing",
+      "Structure the answer as user, pain point, prioritization, solution, metrics",
+      "Time-box yourself to 30 minutes",
+      "Rewrite the answer more crisply"
+    ]
+  },
+  {
+    "day": 6,
+    "week": 1,
+    "phase": 1,
+    "card_title": "Day 6 \u2014 Refresh metrics framework",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review north star, input, output, and guardrail metrics",
+      "Build a metric tree for Spotify or Instacart",
+      "Write 3 risks of optimizing only one top-level metric",
+      "Practice explaining metric tradeoffs out loud",
+      "Save your metric-tree template"
+    ]
+  },
+  {
+    "day": 7,
+    "week": 1,
+    "phase": 1,
+    "card_title": "Day 7 \u2014 Weekly review and reset",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review all outputs from Days 1 to 6",
+      "List your top 3 weak areas",
+      "Rewrite one weak answer from scratch",
+      "Set goals for Week 2",
+      "Clean and organize your files"
+    ]
+  },
+  {
+    "day": 8,
+    "week": 2,
+    "phase": 1,
+    "card_title": "Day 8 \u2014 Learn product strategy structure",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review a simple strategy structure: problem, thesis, bets, risks, metrics",
+      "Pick one familiar product area to use as a running case",
+      "Write a one-page product strategy for it",
+      "Define what you would explicitly not do",
+      "Practice summarizing the strategy in 2 minutes"
+    ]
+  },
+  {
+    "day": 9,
+    "week": 2,
+    "phase": 1,
+    "card_title": "Day 9 \u2014 Practice strategy case 1",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Solve a strategy prompt such as Launch a new AI feature for HelloFresh",
+      "Write assumptions before solutions",
+      "Prioritize 3 possible directions",
+      "Define success metrics and risks",
+      "Review your answer against clarity and tradeoff quality"
+    ]
+  },
+  {
+    "day": 10,
+    "week": 2,
+    "phase": 1,
+    "card_title": "Day 10 \u2014 Learn prioritization and execution",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review RICE or another prioritization method",
+      "Take one real past backlog and rescore it",
+      "Write why the top 3 items win",
+      "Write one paragraph on how you would explain this to engineering",
+      "Save your prioritization template"
+    ]
+  },
+  {
+    "day": 11,
+    "week": 2,
+    "phase": 1,
+    "card_title": "Day 11 \u2014 Prepare stakeholder stories",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Write one conflict story with engineering or design",
+      "Write one alignment story with senior leadership",
+      "Add metrics and business impact to both",
+      "Practice both stories out loud",
+      "Note filler words or vague phrases to remove"
+    ]
+  },
+  {
+    "day": 12,
+    "week": 2,
+    "phase": 1,
+    "card_title": "Day 12 \u2014 Prepare behavioral answers 1",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Write answers for Biggest impact and Biggest failure",
+      "Use STAR structure for both",
+      "Add one reflection lesson to each answer",
+      "Practice each answer twice",
+      "Trim each answer to under 2 minutes"
+    ]
+  },
+  {
+    "day": 13,
+    "week": 2,
+    "phase": 1,
+    "card_title": "Day 13 \u2014 Run mock interview 1",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Do one product case mock interview",
+      "Do one behavioral mock interview",
+      "Score yourself on clarity, depth, and structure",
+      "Write the top 3 mistakes you made",
+      "Rewrite one answer immediately"
+    ]
+  },
+  {
+    "day": 14,
+    "week": 2,
+    "phase": 1,
+    "card_title": "Day 14 \u2014 Review and tighten week 2",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review all work from Days 8 to 13",
+      "Update your gap list",
+      "Choose the 2 themes to improve next week",
+      "Practice your intro pitch again",
+      "Archive finished notes and label drafts clearly"
+    ]
+  },
+  {
+    "day": 15,
+    "week": 3,
+    "phase": 1,
+    "card_title": "Day 15 \u2014 Learn platform and systems thinking",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review the difference between feature, product, and platform thinking",
+      "Write a one-page note on when to build platform first",
+      "Choose one AI platform example to study",
+      "Explain platform tradeoffs out loud",
+      "Save a reusable platform-answer outline"
+    ]
+  },
+  {
+    "day": 16,
+    "week": 3,
+    "phase": 1,
+    "card_title": "Day 16 \u2014 Practice platform case",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Solve a prompt about building an internal AI platform",
+      "Write user segments and their needs",
+      "Define MVP scope and non-goals",
+      "List adoption risks and success metrics",
+      "Time-box to 35 minutes"
+    ]
+  },
+  {
+    "day": 17,
+    "week": 3,
+    "phase": 1,
+    "card_title": "Day 17 \u2014 Study experimentation basics",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review how to form a hypothesis for an A/B test",
+      "Write one experiment design for a product you know",
+      "Define primary metric, guardrails, and duration assumptions",
+      "List 3 reasons experiment results can mislead you",
+      "Save your experiment template"
+    ]
+  },
+  {
+    "day": 18,
+    "week": 3,
+    "phase": 1,
+    "card_title": "Day 18 \u2014 Practice execution case 1",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Solve a prompt like Why is a product metric dropping",
+      "Structure your answer as diagnose, prioritize, act",
+      "List the first 5 questions you would ask",
+      "Define short-term and long-term fixes",
+      "Review for rigor and speed"
+    ]
+  },
+  {
+    "day": 19,
+    "week": 3,
+    "phase": 1,
+    "card_title": "Day 19 \u2014 Deepen leadership stories",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Write one story about influencing without authority",
+      "Write one story about recovering from ambiguity",
+      "Add stronger business outcomes to both",
+      "Practice both aloud",
+      "Cut jargon from both answers"
+    ]
+  },
+  {
+    "day": 20,
+    "week": 3,
+    "phase": 1,
+    "card_title": "Day 20 \u2014 Run mock interview 2",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Do one execution-focused mock",
+      "Do one stakeholder or conflict mock",
+      "Score yourself using the same rubric as Day 13",
+      "Write 3 improvements",
+      "Apply one improvement immediately"
+    ]
+  },
+  {
+    "day": 21,
+    "week": 3,
+    "phase": 1,
+    "card_title": "Day 21 \u2014 Weekly review and reset",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review outputs from Days 15 to 20",
+      "List recurring feedback patterns",
+      "Update your personal interview rubric",
+      "Choose next week\u2019s focus areas",
+      "Clean your artifact folder"
+    ]
+  },
+  {
+    "day": 22,
+    "week": 4,
+    "phase": 1,
+    "card_title": "Day 22 \u2014 Resume rewrite v1",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Update headline and summary for senior PM roles",
+      "Rewrite 3 bullets to be outcome-first",
+      "Add scale, revenue, or efficiency metrics where possible",
+      "Tailor keywords toward Director and Principal roles",
+      "Save as Resume_v1"
+    ]
+  },
+  {
+    "day": 23,
+    "week": 4,
+    "phase": 1,
+    "card_title": "Day 23 \u2014 LinkedIn rewrite",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Update LinkedIn headline for target roles",
+      "Refresh About section with AI-forward positioning",
+      "Rewrite your latest role summary with stronger impact language",
+      "Turn on Open to Work if you want to use it",
+      "Save a copy of the text in your notes"
+    ]
+  },
+  {
+    "day": 24,
+    "week": 4,
+    "phase": 1,
+    "card_title": "Day 24 \u2014 Practice product case 2",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Solve Improve onboarding for a subscription product",
+      "Write user segments first",
+      "Prioritize 3 friction points",
+      "Define success metrics",
+      "Practice the answer verbally once"
+    ]
+  },
+  {
+    "day": 25,
+    "week": 4,
+    "phase": 1,
+    "card_title": "Day 25 \u2014 Prepare behavioral answers 2",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Write answers for disagreement and managing up",
+      "Use STAR format",
+      "Add one reflection lesson to each",
+      "Practice both answers",
+      "Trim each under 2 minutes"
+    ]
+  },
+  {
+    "day": 26,
+    "week": 4,
+    "phase": 1,
+    "card_title": "Day 26 \u2014 Run mock interview 3",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Do one product sense mock",
+      "Do one behavioral mock",
+      "Score yourself on executive presence",
+      "Write the top 3 improvements",
+      "Rewrite one answer immediately"
+    ]
+  },
+  {
+    "day": 27,
+    "week": 4,
+    "phase": 1,
+    "card_title": "Day 27 \u2014 Start networking system",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "List 20 people to reach out to over the next month",
+      "Group them into recruiters, hiring managers, peers, and alumni",
+      "Draft one networking message template",
+      "Draft one follow-up message template",
+      "Send 3 outreach messages"
+    ]
+  },
+  {
+    "day": 28,
+    "week": 4,
+    "phase": 1,
+    "card_title": "Day 28 \u2014 Review and tighten week 4",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review Days 22 to 27",
+      "Update resume based on mock feedback",
+      "Refine LinkedIn headline if needed",
+      "Note the top 2 stories you still need",
+      "Set goals for the next phase"
+    ]
+  },
+  {
+    "day": 29,
+    "week": 5,
+    "phase": 1,
+    "card_title": "Day 29 \u2014 Learn market analysis",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Pick one market you understand well",
+      "Write market size, trends, and key players",
+      "List 3 shifts AI could cause in that market",
+      "Write 3 product opportunities",
+      "Practice summarizing the market in 2 minutes"
+    ]
+  },
+  {
+    "day": 30,
+    "week": 5,
+    "phase": 1,
+    "card_title": "Day 30 \u2014 Practice strategy case 2",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Solve a Three-year strategy case for an AI-enabled business",
+      "Write the thesis first",
+      "Define 3 strategic bets and 2 non-bets",
+      "Add KPIs and top risks",
+      "Review for altitude and focus"
+    ]
+  },
+  {
+    "day": 31,
+    "week": 5,
+    "phase": 2,
+    "card_title": "Day 31 \u2014 Study pricing and monetization",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review common pricing models for SaaS or consumer products",
+      "Pick one familiar product and redesign pricing",
+      "Write expected tradeoffs and risks",
+      "Define how you would test pricing changes",
+      "Save the structure as a template"
+    ]
+  },
+  {
+    "day": 32,
+    "week": 5,
+    "phase": 2,
+    "card_title": "Day 32 \u2014 Practice prioritization under constraints",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Solve a case where budget is cut by 30 percent",
+      "List all constraints first",
+      "Choose what to cut and why",
+      "Write stakeholder communication points",
+      "Practice the answer verbally"
+    ]
+  },
+  {
+    "day": 33,
+    "week": 5,
+    "phase": 2,
+    "card_title": "Day 33 \u2014 Prepare leadership answers 3",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Write a story about building team trust",
+      "Write a story about raising the bar on execution",
+      "Add measurable outcomes",
+      "Practice both stories",
+      "Shorten each story to the strongest version"
+    ]
+  },
+  {
+    "day": 34,
+    "week": 5,
+    "phase": 2,
+    "card_title": "Day 34 \u2014 Run mock interview 4",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Do one strategy mock",
+      "Do one leadership mock",
+      "Score yourself on structure and confidence",
+      "Write top 3 mistakes",
+      "Fix one answer immediately"
+    ]
+  },
+  {
+    "day": 35,
+    "week": 5,
+    "phase": 2,
+    "card_title": "Day 35 \u2014 Weekly review and reset",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review all outputs from Days 29 to 34",
+      "Update your weakness tracker",
+      "Choose one capability to double down on next week",
+      "Review networking progress",
+      "Organize files and rename drafts clearly"
+    ]
+  },
+  {
+    "day": 36,
+    "week": 6,
+    "phase": 2,
+    "card_title": "Day 36 \u2014 Learn roadmapping for senior roles",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review roadmap principles for uncertain environments",
+      "Write a 2-quarter roadmap for an AI initiative",
+      "Include assumptions, dependencies, and milestones",
+      "List what would change the roadmap",
+      "Practice explaining it concisely"
+    ]
+  },
+  {
+    "day": 37,
+    "week": 6,
+    "phase": 2,
+    "card_title": "Day 37 \u2014 Practice tradeoff decisions",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Solve a tradeoff prompt around speed, quality, and scope",
+      "Write your decision criteria first",
+      "Choose one path and defend it",
+      "List the key risks of your choice",
+      "Practice explaining the decision to an executive"
+    ]
+  },
+  {
+    "day": 38,
+    "week": 6,
+    "phase": 2,
+    "card_title": "Day 38 \u2014 Study stakeholder alignment",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Write a one-page note on how you align Eng, Design, Data, and Execs",
+      "List common sources of misalignment",
+      "Write your approach to resolving them",
+      "Turn it into a 90-second answer",
+      "Practice once out loud"
+    ]
+  },
+  {
+    "day": 39,
+    "week": 6,
+    "phase": 2,
+    "card_title": "Day 39 \u2014 Practice execution case 2",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Solve a delayed-launch case",
+      "Identify root-cause buckets",
+      "Choose the first actions you would take",
+      "Draft stakeholder communication points",
+      "Review for realism and prioritization"
+    ]
+  },
+  {
+    "day": 40,
+    "week": 6,
+    "phase": 2,
+    "card_title": "Day 40 \u2014 Run mock interview 5",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Do one execution mock",
+      "Do one conflict-resolution mock",
+      "Score the answers",
+      "Write 3 corrections",
+      "Apply one correction immediately"
+    ]
+  },
+  {
+    "day": 41,
+    "week": 6,
+    "phase": 2,
+    "card_title": "Day 41 \u2014 Refine behavioral bank",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review all behavioral answers written so far",
+      "Remove overlap between stories",
+      "Make sure each story has a distinct theme",
+      "Improve weakest 2 stories",
+      "Practice those 2 aloud"
+    ]
+  },
+  {
+    "day": 42,
+    "week": 6,
+    "phase": 2,
+    "card_title": "Day 42 \u2014 Weekly review and reset",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review Days 36 to 41",
+      "Update your scoring sheet",
+      "Choose 2 focus themes for next week",
+      "Send 3 networking follow-ups",
+      "Clean up notes and templates"
+    ]
+  },
+  {
+    "day": 43,
+    "week": 7,
+    "phase": 2,
+    "card_title": "Day 43 \u2014 Learn system design basics for PMs",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review one system-design-for-PM framework",
+      "Pick an AI or data product you understand",
+      "Write the core components at a high level",
+      "List the main tradeoffs",
+      "Practice explaining architecture without over-detailing"
+    ]
+  },
+  {
+    "day": 44,
+    "week": 7,
+    "phase": 2,
+    "card_title": "Day 44 \u2014 Practice platform case 2",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Solve a case about shared AI tooling across teams",
+      "Define user personas and internal customers",
+      "List MVP capabilities",
+      "Write adoption risks and success metrics",
+      "Time-box to 35 minutes"
+    ]
+  },
+  {
+    "day": 45,
+    "week": 7,
+    "phase": 2,
+    "card_title": "Day 45 \u2014 Study experimentation pitfalls",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review common A/B testing pitfalls",
+      "Write 5 mistakes PMs make in experiment interpretation",
+      "Take a past experiment and critique it",
+      "Write one guardrail checklist",
+      "Save it for later case prep"
+    ]
+  },
+  {
+    "day": 46,
+    "week": 7,
+    "phase": 2,
+    "card_title": "Day 46 \u2014 Practice metric diagnosis",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Solve a case where activation improves but retention falls",
+      "Write possible causes",
+      "Prioritize the investigation order",
+      "Define follow-up experiments",
+      "Review for rigor and balance"
+    ]
+  },
+  {
+    "day": 47,
+    "week": 7,
+    "phase": 2,
+    "card_title": "Day 47 \u2014 Run mock interview 6",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Do one systems/platform mock",
+      "Do one metrics mock",
+      "Score yourself on depth and clarity",
+      "Write 3 improvements",
+      "Fix the weakest answer"
+    ]
+  },
+  {
+    "day": 48,
+    "week": 7,
+    "phase": 2,
+    "card_title": "Day 48 \u2014 Deepen leadership narratives",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Write one story about a high-stakes decision",
+      "Write one story about operating in ambiguity",
+      "Add sharper business outcomes",
+      "Practice both stories",
+      "Cut unnecessary details"
+    ]
+  },
+  {
+    "day": 49,
+    "week": 7,
+    "phase": 2,
+    "card_title": "Day 49 \u2014 Weekly review and reset",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review Days 43 to 48",
+      "Update weak-area tracker",
+      "Pick your top 5 strongest stories overall",
+      "Label them by interview type",
+      "Set next week goals"
+    ]
+  },
+  {
+    "day": 50,
+    "week": 8,
+    "phase": 2,
+    "card_title": "Day 50 \u2014 Company deep dive 1",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Choose one top target company",
+      "Read its product strategy, AI positioning, and recent news",
+      "Write why you fit there",
+      "List 3 interview themes likely to come up",
+      "Save a company one-pager"
+    ]
+  },
+  {
+    "day": 51,
+    "week": 8,
+    "phase": 2,
+    "card_title": "Day 51 \u2014 Company deep dive 2",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Choose a second target company",
+      "Repeat the same company one-pager process",
+      "Compare its needs with company 1",
+      "Write how your pitch changes between the two",
+      "Save the second one-pager"
+    ]
+  },
+  {
+    "day": 52,
+    "week": 8,
+    "phase": 2,
+    "card_title": "Day 52 \u2014 Practice company-specific case",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Take one target company and solve a relevant product case",
+      "Reference its business model in your answer",
+      "Define metrics and risks",
+      "Practice the answer verbally",
+      "Review for company relevance"
+    ]
+  },
+  {
+    "day": 53,
+    "week": 8,
+    "phase": 2,
+    "card_title": "Day 53 \u2014 Prepare behavioral answers 4",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Write a story about resilience or persistence",
+      "Write a story about changing your mind with data",
+      "Use STAR structure",
+      "Practice both stories",
+      "Trim both to stronger versions"
+    ]
+  },
+  {
+    "day": 54,
+    "week": 8,
+    "phase": 2,
+    "card_title": "Day 54 \u2014 Run mock interview 7",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Do one company-specific strategy mock",
+      "Do one behavioral mock",
+      "Score yourself",
+      "Write top 3 mistakes",
+      "Refine one answer immediately"
+    ]
+  },
+  {
+    "day": 55,
+    "week": 8,
+    "phase": 2,
+    "card_title": "Day 55 \u2014 Expand networking",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Send 5 targeted outreach messages",
+      "Ask 2 people for informational chats",
+      "Track outreach in a simple spreadsheet",
+      "Write follow-up dates",
+      "Update your outreach templates"
+    ]
+  },
+  {
+    "day": 56,
+    "week": 8,
+    "phase": 2,
+    "card_title": "Day 56 \u2014 Weekly review and reset",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review Days 50 to 55",
+      "Update company shortlist priorities",
+      "Identify what type of companies fit your compensation target best",
+      "Choose next week\u2019s focus",
+      "Organize files and links"
+    ]
+  },
+  {
+    "day": 57,
+    "week": 9,
+    "phase": 2,
+    "card_title": "Day 57 \u2014 Write product strategy memo v1",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Choose one AI product theme",
+      "Write a 2 to 3 page strategy memo",
+      "Include problem, users, bets, risks, metrics",
+      "Add what you would not do",
+      "Save as Strategy_Memo_v1"
+    ]
+  },
+  {
+    "day": 58,
+    "week": 9,
+    "phase": 2,
+    "card_title": "Day 58 \u2014 Practice executive communication",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Turn your strategy memo into a 5-minute talk track",
+      "Write a top-down summary first",
+      "Practice delivering it once standing up",
+      "Note where you ramble",
+      "Rewrite intro and ending"
+    ]
+  },
+  {
+    "day": 59,
+    "week": 9,
+    "phase": 2,
+    "card_title": "Day 59 \u2014 Practice case 3 at executive level",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Solve a product strategy case with stronger executive framing",
+      "Start with business context",
+      "Add tradeoffs, risks, and sequencing",
+      "Limit answer to 7 minutes",
+      "Review for altitude"
+    ]
+  },
+  {
+    "day": 60,
+    "week": 9,
+    "phase": 2,
+    "card_title": "Day 60 \u2014 Run mock interview 8",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Do one executive strategy mock",
+      "Do one leadership mock",
+      "Score yourself on crispness and presence",
+      "Write top 3 improvements",
+      "Fix the weakest section"
+    ]
+  },
+  {
+    "day": 61,
+    "week": 9,
+    "phase": 2,
+    "card_title": "Day 61 \u2014 Refresh story bank and pitch",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review all career stories and pitch materials",
+      "Finalize your 90-second intro",
+      "Finalize your 30-second recruiter intro",
+      "Practice both out loud",
+      "Save your final v1 versions"
+    ]
+  },
+  {
+    "day": 62,
+    "week": 9,
+    "phase": 2,
+    "card_title": "Day 62 \u2014 Follow up on networking",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Send follow-ups to anyone who replied last week",
+      "Ask for 2 warm introductions where appropriate",
+      "Update your tracker",
+      "Write notes from any conversations",
+      "Refine your message templates"
+    ]
+  },
+  {
+    "day": 63,
+    "week": 9,
+    "phase": 2,
+    "card_title": "Day 63 \u2014 Weekly review and reset",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review Days 57 to 62",
+      "Choose the 3 artifacts that need polishing next",
+      "List top 5 weaknesses before full-loop practice",
+      "Set next week goals",
+      "Clean your workspace"
+    ]
+  },
+  {
+    "day": 64,
+    "week": 10,
+    "phase": 2,
+    "card_title": "Day 64 \u2014 Run full interview loop 1",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Do a product strategy mock",
+      "Do an execution or metrics mock",
+      "Do a behavioral or leadership mock",
+      "Score all 3 on one sheet",
+      "Write the biggest pattern across all 3"
+    ]
+  },
+  {
+    "day": 65,
+    "week": 10,
+    "phase": 2,
+    "card_title": "Day 65 \u2014 Fix weak spots from loop 1",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review feedback from Day 64",
+      "Rewrite your weakest answer",
+      "Practice that answer twice",
+      "Update your rubric with what good looks like",
+      "Note one habit to remove"
+    ]
+  },
+  {
+    "day": 66,
+    "week": 10,
+    "phase": 2,
+    "card_title": "Day 66 \u2014 Practice case 4",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Solve a case on scaling an AI-enabled product",
+      "Define user value and business value separately",
+      "List key execution risks",
+      "Define success metrics and milestones",
+      "Review for structure and sharpness"
+    ]
+  },
+  {
+    "day": 67,
+    "week": 10,
+    "phase": 2,
+    "card_title": "Day 67 \u2014 Refine behavioral answers 5",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Rewrite your weakest behavioral story",
+      "Make sure the action is clearly yours",
+      "Add metrics and reflection",
+      "Practice the story twice",
+      "Compare it to your older version"
+    ]
+  },
+  {
+    "day": 68,
+    "week": 10,
+    "phase": 2,
+    "card_title": "Day 68 \u2014 Run full interview loop 2",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Do one product sense mock",
+      "Do one execution mock",
+      "Do one leadership mock",
+      "Score all 3 on one rubric",
+      "Write top 3 remaining gaps"
+    ]
+  },
+  {
+    "day": 69,
+    "week": 10,
+    "phase": 2,
+    "card_title": "Day 69 \u2014 Polish resume v2",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Tailor resume toward the roles you are now strongest for",
+      "Strengthen keywords around AI, strategy, and leadership",
+      "Trim weaker bullets",
+      "Export to PDF",
+      "Save as Resume_v2"
+    ]
+  },
+  {
+    "day": 70,
+    "week": 10,
+    "phase": 2,
+    "card_title": "Day 70 \u2014 Weekly review and reset",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review Days 64 to 69",
+      "Decide your application start date",
+      "Finalize shortlist of first 10 roles to apply to",
+      "Choose the 2 skills to sharpen next week",
+      "Organize application materials"
+    ]
+  },
+  {
+    "day": 71,
+    "week": 11,
+    "phase": 3,
+    "card_title": "Day 71 \u2014 Start applications batch 1",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Apply to 3 carefully chosen roles",
+      "Tailor resume for each role",
+      "Tailor the first 3 lines of your pitch for each",
+      "Track submissions in a spreadsheet",
+      "Save copies of each submission"
+    ]
+  },
+  {
+    "day": 72,
+    "week": 11,
+    "phase": 3,
+    "card_title": "Day 72 \u2014 Practice case 5",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Solve a case relevant to one role you applied for",
+      "Reference the company context",
+      "Write business goals, user needs, and metrics",
+      "Practice the answer verbally",
+      "Review for relevance"
+    ]
+  },
+  {
+    "day": 73,
+    "week": 11,
+    "phase": 3,
+    "card_title": "Day 73 \u2014 Run mock interview 9",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Do one product mock",
+      "Do one behavioral mock",
+      "Score both",
+      "Write the top 3 mistakes",
+      "Fix one answer immediately"
+    ]
+  },
+  {
+    "day": 74,
+    "week": 11,
+    "phase": 3,
+    "card_title": "Day 74 \u2014 Do outreach batch 1",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Send 5 outreach messages linked to live applications",
+      "Ask one connection for recruiter guidance",
+      "Update your tracker with dates",
+      "Prepare one follow-up note",
+      "Save all final message templates"
+    ]
+  },
+  {
+    "day": 75,
+    "week": 11,
+    "phase": 3,
+    "card_title": "Day 75 \u2014 Behavioral drill under pressure",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Practice 4 behavioral answers back-to-back",
+      "Time each answer",
+      "Cut any story that runs over 2 minutes",
+      "Rewrite one weak answer",
+      "Practice your intro pitch again"
+    ]
+  },
+  {
+    "day": 76,
+    "week": 11,
+    "phase": 3,
+    "card_title": "Day 76 \u2014 Run mock interview 10",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Do one execution mock",
+      "Do one leadership mock",
+      "Score both answers",
+      "Write 3 improvements",
+      "Apply the top improvement immediately"
+    ]
+  },
+  {
+    "day": 77,
+    "week": 11,
+    "phase": 3,
+    "card_title": "Day 77 \u2014 Weekly review and reset",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review Days 71 to 76",
+      "Count applications and outreach sent",
+      "Update your conversion tracker",
+      "Choose what to improve before the next batch",
+      "Organize files and notes"
+    ]
+  },
+  {
+    "day": 78,
+    "week": 12,
+    "phase": 3,
+    "card_title": "Day 78 \u2014 Start applications batch 2",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Apply to 3 more strong-fit roles",
+      "Tailor resume and pitch for each",
+      "Track each application",
+      "Save JD snapshots for each",
+      "Write why each role is a fit"
+    ]
+  },
+  {
+    "day": 79,
+    "week": 12,
+    "phase": 3,
+    "card_title": "Day 79 \u2014 Practice case 6",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Solve a company-specific product strategy case",
+      "Start with assumptions and constraints",
+      "Define 3 strategic choices",
+      "Add metrics and risks",
+      "Review for altitude"
+    ]
+  },
+  {
+    "day": 80,
+    "week": 12,
+    "phase": 3,
+    "card_title": "Day 80 \u2014 Run mock interview 11",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Do one strategy mock",
+      "Do one metrics mock",
+      "Score yourself",
+      "Write 3 improvements",
+      "Fix the weakest answer"
+    ]
+  },
+  {
+    "day": 81,
+    "week": 12,
+    "phase": 3,
+    "card_title": "Day 81 \u2014 Prepare stakeholder answers 2",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Write a story about managing a tough executive stakeholder",
+      "Write a story about recovering alignment after disagreement",
+      "Practice both answers",
+      "Shorten both where needed",
+      "Save final versions"
+    ]
+  },
+  {
+    "day": 82,
+    "week": 12,
+    "phase": 3,
+    "card_title": "Day 82 \u2014 Do outreach batch 2",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Send 5 follow-up or fresh outreach messages",
+      "Request 2 informational conversations",
+      "Update your spreadsheet",
+      "Write notes from any replies",
+      "Plan next follow-up dates"
+    ]
+  },
+  {
+    "day": 83,
+    "week": 12,
+    "phase": 3,
+    "card_title": "Day 83 \u2014 Run mock interview 12",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Do one company-specific mock",
+      "Do one behavioral mock",
+      "Score yourself on clarity and confidence",
+      "Write 3 corrections",
+      "Apply one correction immediately"
+    ]
+  },
+  {
+    "day": 84,
+    "week": 12,
+    "phase": 3,
+    "card_title": "Day 84 \u2014 Weekly review and reset",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review Days 78 to 83",
+      "Update your application tracker",
+      "List the companies with best traction",
+      "Identify common interview themes from screens if any",
+      "Set next week goals"
+    ]
+  },
+  {
+    "day": 85,
+    "week": 13,
+    "phase": 3,
+    "card_title": "Day 85 \u2014 Run full interview loop 3",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Do one product strategy mock",
+      "Do one execution or metrics mock",
+      "Do one leadership mock",
+      "Score all 3 together",
+      "Write the single biggest improvement area"
+    ]
+  },
+  {
+    "day": 86,
+    "week": 13,
+    "phase": 3,
+    "card_title": "Day 86 \u2014 Practice case 7",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Solve a case on launching an AI platform capability",
+      "Define users, MVP, adoption plan, and metrics",
+      "List risks and mitigations",
+      "Practice the answer verbally",
+      "Review for structure"
+    ]
+  },
+  {
+    "day": 87,
+    "week": 13,
+    "phase": 3,
+    "card_title": "Day 87 \u2014 Behavioral mastery day",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Practice your 6 strongest stories in one session",
+      "Check that each has distinct themes",
+      "Trim any unnecessary setup",
+      "Add sharper reflection lines",
+      "Record two stories and review them"
+    ]
+  },
+  {
+    "day": 88,
+    "week": 13,
+    "phase": 3,
+    "card_title": "Day 88 \u2014 Apply to stretch roles",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Apply to 2 high-upside stretch roles",
+      "Tailor resume and pitch carefully",
+      "Track each application",
+      "Write why you are credible even if not a perfect match",
+      "Save all files"
+    ]
+  },
+  {
+    "day": 89,
+    "week": 13,
+    "phase": 3,
+    "card_title": "Day 89 \u2014 Run mock interview 13",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Do one hard interviewer mock",
+      "Ask for more probing follow-ups if using a partner",
+      "Score yourself harshly",
+      "Write the top 5 issues exposed",
+      "Fix the top 2 immediately"
+    ]
+  },
+  {
+    "day": 90,
+    "week": 13,
+    "phase": 3,
+    "card_title": "Day 90 \u2014 Weekly review and reset",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review Days 85 to 89",
+      "Update your readiness score",
+      "Decide whether to broaden or narrow the target list",
+      "Refresh your priorities",
+      "Organize all active application materials"
+    ]
+  },
+  {
+    "day": 91,
+    "week": 13,
+    "phase": 3,
+    "card_title": "Day 91 \u2014 Prepare offer and negotiation notes",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Write your compensation target ranges by geography",
+      "List your non-negotiables and nice-to-haves",
+      "Write a negotiation script for recruiter calls",
+      "Write your rationale for target compensation",
+      "Save as Compensation_Notes_v1"
+    ]
+  },
+  {
+    "day": 92,
+    "week": 14,
+    "phase": 3,
+    "card_title": "Day 92 \u2014 Benchmark compensation",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Research 10 compensation anchors for your target companies and cities",
+      "Update your compensation spreadsheet",
+      "Mark which companies can realistically meet your target",
+      "Write a one-page summary of your market view",
+      "Save the updated file"
+    ]
+  },
+  {
+    "day": 93,
+    "week": 14,
+    "phase": 3,
+    "card_title": "Day 93 \u2014 Practice executive presentation",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Turn one strong case into a 5-slide verbal narrative",
+      "Practice presenting it in under 5 minutes",
+      "Focus on top-down communication",
+      "Note weak transitions",
+      "Rewrite opening and close"
+    ]
+  },
+  {
+    "day": 94,
+    "week": 14,
+    "phase": 3,
+    "card_title": "Day 94 \u2014 Run mock final-round interview",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Do one final-round style strategy mock",
+      "Do one leadership or vision mock",
+      "Score both on executive presence",
+      "Write top 3 corrections",
+      "Practice one corrected answer again"
+    ]
+  },
+  {
+    "day": 95,
+    "week": 14,
+    "phase": 3,
+    "card_title": "Day 95 \u2014 Review weak areas only",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review your latest 5 mock score sheets",
+      "List the 3 weakest competencies still left",
+      "Spend focused time on only those 3",
+      "Rewrite one weak answer",
+      "Practice it twice"
+    ]
+  },
+  {
+    "day": 96,
+    "week": 14,
+    "phase": 3,
+    "card_title": "Day 96 \u2014 Light case and story polish",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Practice one product case lightly",
+      "Practice two key stories lightly",
+      "Review your intro pitch",
+      "Update your tracker with any live interviews",
+      "Do not start new frameworks today"
+    ]
+  },
+  {
+    "day": 97,
+    "week": 14,
+    "phase": 3,
+    "card_title": "Day 97 \u2014 Final application batch",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Apply to 2 to 3 final strong-fit roles",
+      "Tailor resume and pitch",
+      "Update your tracker",
+      "Save all submission artifacts",
+      "Write follow-up dates"
+    ]
+  },
+  {
+    "day": 98,
+    "week": 14,
+    "phase": 3,
+    "card_title": "Day 98 \u2014 Run mock interview 14",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Do one mock in the format you expect next",
+      "Score yourself",
+      "Write final feedback notes",
+      "Practice the weakest section once more",
+      "Save the final score sheet"
+    ]
+  },
+  {
+    "day": 99,
+    "week": 15,
+    "phase": 3,
+    "card_title": "Day 99 \u2014 Reflect and tune strategy",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review the full 100-day journey",
+      "List what improved most",
+      "List what still needs work",
+      "Decide your next 30-day search strategy",
+      "Write one paragraph on how you now position yourself"
+    ]
+  },
+  {
+    "day": 100,
+    "week": 15,
+    "phase": 3,
+    "card_title": "Day 100 \u2014 Final readiness day",
+    "checklist_name": "Daily Tasks",
+    "tasks": [
+      "Review final resume, pitch, and story bank",
+      "Review target companies and active pipeline",
+      "Choose the 5 roles you most want now",
+      "Commit to a weekly interview practice cadence going forward",
+      "Celebrate finishing the 100-day plan"
+    ]
+  }
+]
